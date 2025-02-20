@@ -9,7 +9,7 @@ This is a python implementation of MindChat, an SSVEP-based BCI speller enhanced
   <img src="snapshot.png" alt="MindChat snapshot" width="400"/>
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
 
 ## Dependencies
 
