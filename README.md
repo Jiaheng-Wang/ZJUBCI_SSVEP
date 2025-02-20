@@ -9,7 +9,7 @@ This is a python implementation of MindChat, an SSVEP-based BCI speller enhanced
   <img src="snapshot.png" alt="MindChat snapshot" width="400"/>
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
 
 ## Dependencies
 
@@ -28,7 +28,7 @@ For a general case, a calibration stage is first performed to record subject-spe
 
 ------
 
-Next,  a structed MI dataset should be made and decoding models are trained.
+Next,  a structed SSVEP dataset should be made and decoding models are trained.
 
 - [ ] Train subject-specific models with the **algorithms** module. Specifically, FBECCA are implemented. It is straightforward to train and just take note of the corresponding configurations.
 
