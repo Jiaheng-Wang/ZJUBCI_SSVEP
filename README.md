@@ -5,11 +5,11 @@
 This is a python implementation of MindChat, an SSVEP-based BCI speller enhanced by LLMs. The BCI system consists of two phases including the calibration and feedback stages. In the calibration stage, subjects are instructed to attend to the cued SSVEP stimuli. After the decoding model has been calibrated, in the feedback stage,  copy-spelling tasks are performed and users use MindChat to copy-spell targeted utterances. A demo video of MindChat is provided.
 
 <div align=center>
-  <img src="framework.jpg" alt="MindChat framework" width="300"/>
-  <img src="snapshot.jpg" alt="MindChat snapshot" width="300"/>
+  <img src="framework.png" alt="MindChat framework" width="400"/>
+  <img src="snapshot.png" alt="MindChat snapshot" width="400"/>
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**MindChat framework &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; MindChat snapshot**
 
 ## Dependencies
 
